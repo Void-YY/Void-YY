@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Here are my profile:
 
 - 🔭 I’m currently working on Full(Fool😨)-stack project.
 - 🌱 I’m currently learning Golang.
